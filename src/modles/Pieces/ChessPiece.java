@@ -1,11 +1,12 @@
 package modles.Pieces;
 
 import modles.Board.Cell;
+import modles.Helpers.Color;
 
 public interface ChessPiece {
     void makeMove(Cell startingCell, Cell endingCell);
 
-    boolean setKilled(boolean killed);
+    void setKilled(boolean killed);
 
     boolean isKilled();
 
@@ -13,4 +14,7 @@ public interface ChessPiece {
 
     void listPossibleMoves(Cell currentCell);
 
+    boolean isMovingFirstTime();
+
+    Color getColor();
 }
