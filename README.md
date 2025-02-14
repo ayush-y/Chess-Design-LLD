@@ -22,6 +22,8 @@
 ### Non functional requirements
 
 - Code should be modular and extensible
-- Code should follow all the relevant OOP and Solid principles
+- Code should follow all the relevant OOP's concept
+- Code should follow all Solid principles
 - Code should be in a running state
+- 
 
