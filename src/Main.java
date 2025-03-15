@@ -6,7 +6,8 @@ public class Main {
         Pair pair = new Pair(1, 2);
         System.out.println(pair.getX());
         System.out.println(pair.getY());
-        
+        System.out.println("Thank you for playing the Chess !!");
+
 
     }
 }
