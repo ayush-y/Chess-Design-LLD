@@ -1,3 +1,4 @@
+import modles.Helpers.Color;
 import modles.Helpers.Pair;
 
 public class Main {
@@ -7,7 +8,10 @@ public class Main {
         System.out.println(pair.getX());
         System.out.println(pair.getY());
         System.out.println("Thank you for playing the Chess !!");
-
-
+        Color color = Color.BLACK;
+        Color color1  = Color.WHITE;
+        System.out.println(color);
+        System.out.println(color1);
+        
     }
 }
