@@ -30,6 +30,6 @@
 
 - Use inheritance for different chess pieces (e.g., Piece as a base class and derived classes like Pawn, Rook, etc.).
 
-= Ensure single responsibility for classes and avoid tight coupling.
+- Ensure single responsibility for classes and avoid tight coupling.
 
-= Use dependency injection where needed.
+- Use dependency injection where needed.
