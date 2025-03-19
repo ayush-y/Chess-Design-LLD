@@ -1,5 +1,13 @@
 ## Requirements
 
+### Basic Chess Rules:
+
+Implement basic movement rules for all pieces (Pawn, Rook, Knight, Bishop, Queen, King).
+
+Add checks for piece capturing.
+
+Avoid implementing advanced rules like castling, en passant, or pawn promotion initially (optional enhancements).
+
 ### Solution requirements
 
 - Do we need to store the data in any kind of database or in memory storage is fine ?
