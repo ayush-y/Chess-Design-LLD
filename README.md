@@ -2,11 +2,11 @@
 
 ### Basic Chess Rules:
 
-Implement basic movement rules for all pieces (Pawn, Rook, Knight, Bishop, Queen, King).
+- Implement basic movement rules for all pieces (Pawn, Rook, Knight, Bishop, Queen, King).
 
-Add checks for piece capturing.
+- Add checks for piece capturing.
 
-Avoid implementing advanced rules like castling, en passant, or pawn promotion initially (optional enhancements).
+- Avoid implementing advanced rules like castling, en passant, or pawn promotion initially (optional enhancements).
 
 ### Solution requirements
 
