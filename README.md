@@ -7,6 +7,7 @@
 - Add checks for piece capturing.
 
 - Avoid implementing advanced rules like castling, en passant, or pawn promotion initially (optional enhancements).
+- we are using black and white pieces.
 
 ### Solution requirements
 
