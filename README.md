@@ -8,6 +8,17 @@
 
 - Avoid implementing advanced rules like castling, en passant, or pawn promotion initially (optional enhancements).
 - we are using black and white pieces.
+- Kings: 1 white and 1 black. The most important piece. The game ends when a king is checkmated.
+
+- Queens: 1 white and 1 black. The most powerful piece, capable of moving any number of squares in any direction.
+
+- Rooks: 2 white and 2 black. They move horizontally or vertically across the board.
+
+- Bishops: 2 white and 2 black. Each moves diagonally and stays on squares of their initial color.
+
+- Knights: 2 white and 2 black. They move in an "L" shape: two squares in one direction and one perpendicular.
+
+- Pawns: 8 white and 8 black. These are the most numerous and advance only one square forward (except on their first move) but capture diagonally.
 
 ### Solution requirements
 
