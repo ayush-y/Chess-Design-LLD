@@ -53,3 +53,10 @@
 - Ensure single responsibility for classes and avoid tight coupling.
 
 - Use dependency injection where needed.
+- Game interacts with Player and Chessboard but knows nothing about the specific implementations of pieces or strategies.
+
+ - Chessboard validates moves using the Piece base class and delegates piece-specific behavior to derived classes.
+
+ - Piece subclasses implement movement rules (isValidMove()), adhering to the Single Responsibility Principle.
+
+- MoveValidator ensures a piece's move adheres to general rules (e.g., staying within bounds) and special conditions like avoiding putting the king in check.
