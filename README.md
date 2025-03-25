@@ -35,6 +35,10 @@
 - Optional Bot: Create a bot that makes random valid moves or follows simple strategies.
 
   - Game Conditions: Check for win conditions like checkmate or stalemate.
+  - In-Memory Chessboard Representation
+  - Use a 2D array (Piece[][] board) to store the pieces.
+
+  - Each cell represents a square on the board. Null indicates an empty square.
 
 ### Feature requirements
 
