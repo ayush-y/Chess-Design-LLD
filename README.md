@@ -18,7 +18,8 @@
 
 - Knights: 2 white and 2 black. They move in an "L" shape: two squares in one direction and one perpendicular.
 
-- Pawns: 8 white and 8 black. These are the most numerous and advance only one square forward (except on their first move) but capture diagonally.
+- Pawns: 8 white and 8 black.
+- These are the most numerous and advance only one square forward (except on their first move) but capture diagonally.
 
 ### Solution requirements
 
