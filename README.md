@@ -57,7 +57,7 @@
 - Code should follow all the relevant OOP's concept
 - Code should follow all Solid principles
 - Code should be in a running state
-- 
+- no db connection required
 ### OOP and SOLID Principles:
 
 - Use inheritance for different chess pieces (e.g., Piece as a base class and derived classes like Pawn, Rook, etc.).
