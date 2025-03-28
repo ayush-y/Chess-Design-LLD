@@ -60,7 +60,8 @@
 - no db connection required
 ### OOP and SOLID Principles:
 
-- Use inheritance for different chess pieces (e.g., Piece as a base class and derived classes like Pawn, Rook, etc.).
+- Use inheritance for different chess pieces
+- (e.g., Piece as a base class and derived classes like Pawn, Rook, etc.).
 
 - Ensure single responsibility for classes and avoid tight coupling.
 
