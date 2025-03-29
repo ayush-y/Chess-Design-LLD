@@ -70,7 +70,8 @@
 
  - Chessboard validates moves using the Piece base class and delegates piece-specific behavior to derived classes.
 
- - Piece subclasses implement movement rules (isValidMove()), adhering to the Single Responsibility Principle.
+ - Piece subclasses implement movement rules (isValidMove()),
+ - adhering to the Single Responsibility Principle.
 
 - MoveValidator ensures a piece's move adheres to general rules (e.g., staying within bounds).
 - special conditions like avoiding putting the king in check.
