@@ -26,7 +26,8 @@
   - In memory storage is fine
 - Do we need to implement any kind of network api based interactions or a console driven app ?
   - Console app is fine
-- Do we need to write only the class structures or implement working code ?
+- Do we need to write only the class structures ?
+-  or implement working code ?
   - As much working code as possible is required.
   - Add Other Pieces: Implement Rook, Knight, Bishop, Queen, and King classes with their respective move logic.
 
