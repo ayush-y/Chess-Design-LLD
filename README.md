@@ -31,7 +31,8 @@
   - As much working code as possible is required.
   - Add Other Pieces: Implement Rook, Knight, Bishop, Queen, and King classes with their respective move logic.
 
-- Enhance Move Validation: Add checks for special rules (e.g., ensuring the King is not in check).
+- Enhance Move Validation: Add checks for special rules
+- (e.g., ensuring the King is not in check).
 
 - Optional Bot: Create a bot that makes random valid moves or follows simple strategies.
 
